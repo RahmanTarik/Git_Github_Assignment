@@ -16,4 +16,4 @@ jobs:
       - name: Display file content
         run: |
           echo "Reading file content..."
-          cat example.txt
+          cat hello.txt
